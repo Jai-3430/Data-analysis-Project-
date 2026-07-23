@@ -1,2 +1,2 @@
-# Data-analysis-Project-
-Data analysis Project 
+# Data-analysis-Machine-learning-Project-
+Data analysis and Machine learning Project 
